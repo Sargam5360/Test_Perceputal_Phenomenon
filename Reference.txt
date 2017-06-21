@@ -1,0 +1,8 @@
+References for Test a Perceptron Phenomenon
+
+1. Udacity inferential and descriptive statistics course
+
+
+2. https://github.com/seifip/udacity-data-analyst-nanodegree/tree/master/P1%20-Test%20a%20Perceptual%20Phenomenon
+
+3. https://github.com/lyvinhhung/Udacity-Data-Analyst-Nanodegree/blob/master/p1%20-%20Perceptual%20Phenomenon%20Testing/P1-Perceptual_Phenomenon_Testing.ipynb
