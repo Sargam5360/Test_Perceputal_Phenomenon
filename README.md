@@ -2,6 +2,7 @@
 
 
 **Why this Project?**
+
 View Project: https://github.com/Sargam5360/Test_Perceputal_Phenomenon/blob/master/Test%20a%20Perceptron%20Phenomenon.ipynb
 Statistics is a major component of data analysis, it allows you to investigate data and make inferences based on your observations. 
 A foundation in statistics also allows you to be a consumer of analyses that others perform, and allows you to relate to the 
